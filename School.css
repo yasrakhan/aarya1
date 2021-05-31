@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.nav navbar-nav {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+
+}
+
+#popup {
+    color: skyblue;
+    background-color: darkgreen;
+}
+
+#video {
+    height: 500px;
+    width: 800px;
+}
+#principal_pic{
+    height: 250;
+    width: 250;
+}
+#about{
+    color:aliceblue;
+}
+#abt_p{
+    color:black;
+}
